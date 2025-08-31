@@ -10,6 +10,8 @@ The system designed is capable of interacting with various web elements and exec
 
 Selenium WebDriver, Pytest, Data Driven Testing Framework, Hybrid Testing Framework, Page Object Model, OOPS Concepts, BaseTest, Assertions, Validations, Openpyxl, Conditional looping statements, Sorting functionality, Selecting random products dynamically, Conftest file with fixtures maintained for Setup and teardown functionality, Capturing Screenshots for validation, static methods are deployed in order to reduce memory usage for fetching url, username, password fields etc.
 
+Explicit waits, Exception handling, random class, select class, logging method are deployed in the project.
+
 Logging of results and HTML report generation for each test case execution is taken care of.
 
 Test data is fetched during test execution from an Excel file. Utility files are maintained.
