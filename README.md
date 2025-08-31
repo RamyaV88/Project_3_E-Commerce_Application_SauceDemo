@@ -8,8 +8,7 @@ Validation of web behavior, dynamic UI content, and overall system response are 
 
 The system designed is capable of interacting with various web elements and execute test cases covering both positive and negative scenarios.
 
-Selenium WebDriver, Pytest, Data Driven Testing Framework, Hybrid Testing Framework, Page Object Model, OOPS Concepts, BaseTest, Assertions, Validations, Openpyxl, Conditional looping statements, Sorting functionality, 
-Selecting random products dynamically, Conftest file with fixtures maintained for Setup and teardown functionality, Capturing Screenshots for validation, etc are deployed.
+Selenium WebDriver, Pytest, Data Driven Testing Framework, Hybrid Testing Framework, Page Object Model, OOPS Concepts, BaseTest, Assertions, Validations, Openpyxl, Conditional looping statements, Sorting functionality, Selecting random products dynamically, Conftest file with fixtures maintained for Setup and teardown functionality, Capturing Screenshots for validation, static methods are deployed in order to reduce memory usage for fetching url, username, password fields etc.
 
 Logging of results and HTML report generation for each test case execution is taken care of.
 
