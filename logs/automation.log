@@ -1,0 +1,106 @@
+08/31/2025 07:44:38 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Started ******
+08/31/2025 07:44:38 PM: INFO: ****** Fetching multiple credentials from an excel file - Data Driven Test ******
+08/31/2025 07:44:40 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Completed ******
+08/31/2025 07:44:54 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Started ******
+08/31/2025 07:44:54 PM: INFO: ****** Fetching multiple credentials from an excel file - Data Driven Test ******
+08/31/2025 07:44:55 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Completed ******
+08/31/2025 07:45:08 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Started ******
+08/31/2025 07:45:08 PM: INFO: ****** Fetching multiple credentials from an excel file - Data Driven Test ******
+08/31/2025 07:45:14 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Completed ******
+08/31/2025 07:45:26 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Started ******
+08/31/2025 07:45:26 PM: INFO: ****** Fetching multiple credentials from an excel file - Data Driven Test ******
+08/31/2025 07:45:28 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Completed ******
+08/31/2025 07:45:41 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Started ******
+08/31/2025 07:45:41 PM: INFO: ****** Fetching multiple credentials from an excel file - Data Driven Test ******
+08/31/2025 07:45:42 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Completed ******
+08/31/2025 07:45:55 PM: INFO: ****** Test Case - 2: Validating error message displayed for locked_out_user - Started ******
+08/31/2025 07:45:55 PM: INFO: ****** Fetching credentials from an excel file - Data Driven Test ******
+08/31/2025 07:45:57 PM: INFO: ****** Test Case - 2: Validating error message displayed for locked_out_user - Completed ******
+08/31/2025 07:46:10 PM: INFO: ****** Test Case - 1: Login test with various predefined users - Started ******
+08/31/2025 07:47:25 PM: INFO: ****** Test Case - 1: Login test with various predefined users - Completed ******
+08/31/2025 07:47:38 PM: INFO: ****** Test Case - 2: Login test with Invalid Credentials - Started ******
+08/31/2025 07:47:39 PM: INFO: ****** Test Case - 2: Login test with Invalid Credentials - Completed ******
+08/31/2025 07:47:52 PM: INFO: ****** Test Case - 2: Login test with Empty Credentials - Started ******
+08/31/2025 07:47:53 PM: INFO: ****** Test Case - 2: Login test with Empty Credentials - Completed ******
+08/31/2025 07:48:06 PM: INFO: ****** Test Case - 3: Logout Functionality Test Started ******
+08/31/2025 07:48:08 PM: INFO: ****** Clicking on Logout button ******
+08/31/2025 07:48:08 PM: INFO: ****** Test Case - 3: Logout Functionality Test Completed ******
+08/31/2025 07:48:21 PM: INFO: ****** Test Case - 4: Cart Icon Visibility Test - Started ******
+08/31/2025 07:48:23 PM: INFO: ****** Checking if cart icon is visible ******
+08/31/2025 07:48:23 PM: INFO: ****** Test Case - 4: Cart Icon Visibility Test - Completed ******
+08/31/2025 07:48:37 PM: INFO: ****** Test Case - 5: Random selection of products and data extraction Test - Started ******
+08/31/2025 07:48:39 PM: INFO: ****** Selecting 4 Random Products ******
+08/31/2025 07:48:39 PM: INFO: ****** Test Case - 5: Random selection of products and data extraction Test - Completed ******
+08/31/2025 07:48:54 PM: INFO: ****** Test Case - 6: Add selected products to cart and validate - Started ******
+08/31/2025 07:48:55 PM: INFO: ****** Selecting 4 Random Products ******
+08/31/2025 07:48:56 PM: INFO: ****** Test Case - 6: Added selected products to cart and validated - Completed ******
+08/31/2025 07:49:09 PM: INFO: ****** Test Case - 7: Validate product details inside the cart - Started ******
+08/31/2025 07:49:10 PM: INFO: ****** Selecting 4 Random Products ******
+08/31/2025 07:49:11 PM: INFO: ****** Test Case - 7: Validated product details inside the cart - Completed ******
+08/31/2025 07:49:25 PM: INFO: ****** Test Case - 8: Complete checkout and validate order - Started ******
+08/31/2025 07:49:26 PM: INFO: ****** Selecting 4 Random Products ******
+08/31/2025 07:49:28 PM: INFO: ****** Test Case - 8: Complete checkout and validate order - Completed ******
+08/31/2025 07:49:42 PM: INFO: ****** Test Case - 9: Validate sorting functionality on the products page - Started ******
+08/31/2025 07:49:43 PM: INFO: ****** Sorting - Z to A ******
+08/31/2025 07:49:43 PM: INFO: ****** Sorting : Price - Low to High ******
+08/31/2025 07:49:43 PM: INFO: ****** Sorting : A to Z ******
+08/31/2025 07:49:44 PM: INFO: ****** Sorting : Price - High to Low ******
+08/31/2025 07:49:44 PM: INFO: ****** Test Case - 9: Validate sorting functionality on the products page - Started ******
+08/31/2025 07:49:57 PM: INFO: ****** Test Case - 10: Reset App State Test Started ******
+08/31/2025 07:49:58 PM: INFO: ****** Two products added to cart ******
+08/31/2025 07:49:59 PM: INFO: ****** Clicking on Reset App State ******
+08/31/2025 07:49:59 PM: INFO: ****** Products removed from cart and cart remains empty ******
+08/31/2025 07:49:59 PM: INFO: ****** Test Case - 10: Reset App State Test Completed ******
+08/31/2025 10:52:59 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Started ******
+08/31/2025 10:52:59 PM: INFO: ****** Fetching multiple credentials from an excel file - Data Driven Test ******
+08/31/2025 10:53:00 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Completed ******
+08/31/2025 10:53:14 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Started ******
+08/31/2025 10:53:14 PM: INFO: ****** Fetching multiple credentials from an excel file - Data Driven Test ******
+08/31/2025 10:53:15 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Completed ******
+08/31/2025 10:53:29 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Started ******
+08/31/2025 10:53:29 PM: INFO: ****** Fetching multiple credentials from an excel file - Data Driven Test ******
+08/31/2025 10:53:36 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Completed ******
+08/31/2025 10:53:49 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Started ******
+08/31/2025 10:53:49 PM: INFO: ****** Fetching multiple credentials from an excel file - Data Driven Test ******
+08/31/2025 10:53:51 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Completed ******
+08/31/2025 10:54:03 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Started ******
+08/31/2025 10:54:03 PM: INFO: ****** Fetching multiple credentials from an excel file - Data Driven Test ******
+08/31/2025 10:54:04 PM: INFO: ****** Test Case - 1: Validating the Login functionality - Data Driven Test - Completed ******
+08/31/2025 10:54:19 PM: INFO: ****** Test Case - 2: Validating error message displayed for locked_out_user - Started ******
+08/31/2025 10:54:19 PM: INFO: ****** Fetching credentials from an excel file - Data Driven Test ******
+08/31/2025 10:54:19 PM: INFO: ****** Test Case - 2: Validating error message displayed for locked_out_user - Completed ******
+08/31/2025 10:55:12 PM: INFO: ****** Test Case - 1: Login test with various predefined users - Started ******
+08/31/2025 10:56:37 PM: INFO: ****** Test Case - 1: Login test with various predefined users - Completed ******
+08/31/2025 10:59:12 PM: INFO: ****** Test Case - 3: Logout Functionality Test Started ******
+08/31/2025 10:59:14 PM: INFO: ****** Clicking on Logout button ******
+08/31/2025 10:59:14 PM: INFO: ****** Test Case - 3: Logout Functionality Test Completed ******
+08/31/2025 11:03:30 PM: INFO: ****** Test Case - 2: Login test with Invalid Credentials - Started ******
+08/31/2025 11:03:31 PM: INFO: ****** Test Case - 2: Login test with Invalid Credentials - Completed ******
+08/31/2025 11:03:47 PM: INFO: ****** Test Case - 2: Login test with Empty Credentials - Started ******
+08/31/2025 11:03:48 PM: INFO: ****** Test Case - 2: Login test with Empty Credentials - Completed ******
+08/31/2025 11:04:37 PM: INFO: ****** Test Case - 4: Cart Icon Visibility Test - Started ******
+08/31/2025 11:04:39 PM: INFO: ****** Checking if cart icon is visible ******
+08/31/2025 11:04:39 PM: INFO: ****** Test Case - 4: Cart Icon Visibility Test - Completed ******
+08/31/2025 11:05:21 PM: INFO: ****** Test Case - 5: Random selection of products and data extraction Test - Started ******
+08/31/2025 11:05:22 PM: INFO: ****** Selecting 4 Random Products ******
+08/31/2025 11:05:23 PM: INFO: ****** Test Case - 5: Random selection of products and data extraction Test - Completed ******
+08/31/2025 11:06:17 PM: INFO: ****** Test Case - 6: Add selected products to cart and validate - Started ******
+08/31/2025 11:06:18 PM: INFO: ****** Selecting 4 Random Products ******
+08/31/2025 11:06:20 PM: INFO: ****** Test Case - 6: Added selected products to cart and validated - Completed ******
+08/31/2025 11:07:41 PM: INFO: ****** Test Case - 7: Validate product details inside the cart - Started ******
+08/31/2025 11:07:42 PM: INFO: ****** Selecting 4 Random Products ******
+08/31/2025 11:07:44 PM: INFO: ****** Test Case - 7: Validated product details inside the cart - Completed ******
+08/31/2025 11:08:36 PM: INFO: ****** Test Case - 8: Complete checkout and validate order - Started ******
+08/31/2025 11:08:37 PM: INFO: ****** Selecting 4 Random Products ******
+08/31/2025 11:08:39 PM: INFO: ****** Test Case - 8: Complete checkout and validate order - Completed ******
+08/31/2025 11:09:27 PM: INFO: ****** Test Case - 9: Validate sorting functionality on the products page - Started ******
+08/31/2025 11:09:28 PM: INFO: ****** Sorting - Z to A ******
+08/31/2025 11:09:28 PM: INFO: ****** Sorting : Price - Low to High ******
+08/31/2025 11:09:29 PM: INFO: ****** Sorting : A to Z ******
+08/31/2025 11:09:29 PM: INFO: ****** Sorting : Price - High to Low ******
+08/31/2025 11:09:30 PM: INFO: ****** Test Case - 9: Validate sorting functionality on the products page - Started ******
+08/31/2025 11:10:12 PM: INFO: ****** Test Case - 10: Reset App State Test Started ******
+08/31/2025 11:10:14 PM: INFO: ****** Two products added to cart ******
+08/31/2025 11:10:14 PM: INFO: ****** Clicking on Reset App State ******
+08/31/2025 11:10:14 PM: INFO: ****** Products removed from cart and cart remains empty ******
+08/31/2025 11:10:14 PM: INFO: ****** Test Case - 10: Reset App State Test Completed ******
